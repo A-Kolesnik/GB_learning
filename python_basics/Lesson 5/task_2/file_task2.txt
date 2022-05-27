@@ -1,0 +1,3 @@
+line 1
+home task 5
+file testing calculate words and lines
